@@ -18,7 +18,7 @@ Nessa parte, devemos ter os seguintes conceitos para obter nota máxima:
 * Relacionamento Identificador
 * Relacionamento Binário
 * Relacionamento N-ário
-Entidade Associativa
+* Entidade Associativa
 * Herança
 
 
