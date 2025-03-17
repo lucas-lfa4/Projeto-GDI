@@ -1,5 +1,5 @@
 # Introdução
-Projeto feito para a disciplina de Gerenciamento de Dados e Informação - IF685. O objetivo é projetar um banco de dados, passando pelas diversas etapas desde um recorte de um problema do mundo real, o minimundo, passando pelo esquema conceitual (modelo entidade-relacionamento), esquema lógico e esquema físico.
+Projeto feito para a disciplina de Gerenciamento de Dados e Informação - IF685. O objetivo é projetar um banco de dados, passando pelas diversas etapas desde um recorte de um problema do mundo real, o minimundo, esquema conceitual (modelo entidade-relacionamento), esquema lógico e esquema físico.
 
 # Minimundo
 *problema*
